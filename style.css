@@ -42,7 +42,7 @@
     margin: 1rem 0rem;
   }
   
-  .preperation-time-container {
+  .preptime-container {
     margin: 2rem 0rem;
     background-color: #fff7fc;
     border-radius: 7px;
@@ -50,7 +50,7 @@
   
   }
   
-  .prep-time-heading {
+  .preptime-heading {
     font-family: "Outfit", sans-serif;
     color: #6f103D;
   }
